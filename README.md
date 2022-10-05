@@ -10,10 +10,10 @@
 
 ![](https://media.giphy.com/media/3o7qDXzmWyT3BgcyGc/giphy.gif)
 
-#### Before we get into the fun stuff we'll first try to build a solid foundation in the necessary Maths, which will sadly contain less code then the later sections where we'll implement the deep learning algorithms from scratch
+#### Before we get into the fun stuff we'll first try to build a solid foundation in the necessary Maths, which will sadly contain less code than the later sections where we'll implement the deep learning algorithms from scratch
 
 ![](https://media.giphy.com/media/l3978mq7x6nmcMr1m/giphy.gif)
 
-##### Eventually we'll be able to do exactly what we sought out to do...
+##### But eventually we'll be able to do exactly what we sought out to do...
 
 ![](https://media.giphy.com/media/3ohzdXIKl0BjNK2g3m/giphy.gif)
